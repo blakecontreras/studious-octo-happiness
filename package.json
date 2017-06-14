@@ -1,0 +1,23 @@
+{
+  "name": "studious-octo-happiness",
+  "version": "1.0.0",
+  "description": "A game about an octopus in glasses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "python -m SimpleHTTPServer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakecontreras/studious-octo-happiness.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakecontreras/studious-octo-happiness/issues"
+  },
+  "homepage": "https://github.com/blakecontreras/studious-octo-happiness#readme",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
